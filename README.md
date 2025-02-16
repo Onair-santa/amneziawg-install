@@ -2,7 +2,7 @@
 
 **This project is a bash script that aims to setup a [AmneziaWG](https://docs.amnezia.org/ru/documentation/amnezia-wg/) VPN on a Linux server**
 
-## Requirements
+### Requirements
 
 Supported distributions:
 
@@ -13,7 +13,7 @@ others can work but not tested
 
 2Gb of free space is required for temporary files.
 
-## Usage
+### Usage
 
 Before installation it is strictly recommended to upgrade your system to the latest available version and perform the reboot afterwards.
 
